@@ -21,7 +21,7 @@ aws-cli/2.15.41 Python/3.11.8 Darwin/23.4.0 exe/x86_64 prompt/off
 [intelij version](./media/intellij_version.png)
 ```
 
-### Containers Engins - Docker
+### Containers Engine - Docker
 
 ```
 ❯ docker -v
