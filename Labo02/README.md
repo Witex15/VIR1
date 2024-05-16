@@ -38,7 +38,7 @@ There are all in the pom.xml file
 * Is it a build ready for prod ?
 
 ```
-//TODO
+yes it can
 ```
 
 ### Use Java to launch the application
@@ -109,5 +109,5 @@ Jdk, Maven, Tomcat, Database
 * Try to list the tasks to be carried out to obtain two thirds, one hosting the application part locally and the second third using Docker for the database engine.
 
 ```
-
+idk
 ```
