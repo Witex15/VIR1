@@ -12,7 +12,7 @@ In this lab, we'll be taking the application we're going to evolve into our own 
 * [Maven Doc](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html#build-the-project)
 
 ```bash
-mvm package
+mvn package
 ```
 
 * What operation does maven perform ?
@@ -66,7 +66,7 @@ http://localhost:8080
 * [Maven plug in to run the app](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/#run)
 
 ```bash
-mvn spring-boot:run
+mvnw spring-boot:run
 ```
 
 ---
@@ -109,5 +109,5 @@ Jdk, Maven, Tomcat, Database
 * Try to list the tasks to be carried out to obtain two tiers, one hosting the application part locally and the second tier using Docker for the database engine.
 
 ```
-idk
+//
 ```
