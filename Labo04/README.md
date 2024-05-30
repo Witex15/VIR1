@@ -59,7 +59,7 @@ Let's get started!
 > Quit
 ```
 
-### Deploy the app (single-tier)
+### Deploy the app with Docker and data Persistence
 
 [Source](https://docs.docker.com/language/java/develop/)
 
